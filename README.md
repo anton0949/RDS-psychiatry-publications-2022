@@ -1,3 +1,5 @@
+# Publications from the departments of Adult Psychiatry and Child & Adolescent Psychiatry in the Region of Southern Denmark, 2022
+
 ## Method for the 2022 reports:
 
 A bibliometric analysis was conducted on published articles with affiliations to the Region of Southern Denmark in the fields of Child and Adolescence Psychiatry and Adult Psychiatry for the year 2022.
@@ -26,7 +28,7 @@ In file “2022.R” we prepared our tooling for building the report data.
 
 We utilized the R programming language to develop tooling that allows for the generation of figures and tables for our bibliometric reports. To generate the reports, we use the "create_report" function with relevant parameters, which is implemented in the `2022.R` file. To run the function, we provided the relevant data files as described above. 
 
-This allows for easy rebuilding and compilation of reports increasing efficiency and giving the workflow a strict stricter method and better overview because of the data files. 
+This allows for easy rebuilding and compilation of reports increasing efficiency and giving the workflow a stricter method and better overview because of the data files. 
 
 Additionally, it gives each department easy access to generate reports based on sub-datasets just by modifying the Endnote and CSV databases.
 
