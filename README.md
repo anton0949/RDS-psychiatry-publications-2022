@@ -15,12 +15,12 @@ For each author registered in the PURE report we manually checked their affiliat
 
 Any references in the PURE report that were not relevant to the study were manually excluded by putting their DOI number along with an exclusion reason in the exclution CSV file. Some references was without DOI, here we have put the title.
 
-We ran build_jif.R” to build a database of journals stored in the CSV formatted in `/Data/jif.csv`. To the database we manually added the corresponding Journal Impact Factor along with a source. Preferably, we used The Journal Citation Reports (JCR) produced by Clarivate Analytics as source.
-In file “2022.R” we prepared our tooling for building the report data.
+We ran build_jif.R” to build a database of journals stored in the CSV format in `/Data/jif.csv`. To the database we have manually added the corresponding Journal Impact Factor along with a source. Preferably, we have used The Journal Citation Reports (JCR) produced by Clarivate Analytics as source.
+In file “2022.R” we have prepared our tooling for building the report data.
 
-When the script made all figures and tables the final report can be “knitted” via. `report.Rmd`
+When the script made all figures and tables the final report can be “knitted” via. `report.Rmd`.
 
-**Summary of relevant datafile:**
+**Summary of relevant data files:**
 - `/Data/PURE.docx`: The original data source provided by the university library.
 - `/Data/excluded.csv`: List of exluded articles along with a reason.
 - `/Data/authors.csv`: List of all authors in our dataset. Column type shows author affiliation.
@@ -33,7 +33,7 @@ We utilized the R programming language to develop tooling that allows for the ge
 
 This allows for easy rebuilding and compilation of reports increasing efficiency and giving the workflow a stricter method and better overview because of the data files. 
 
-Additionally, it gives each department easy access to generate reports based on sub-datasets just by modifying the Endnote and CSV databases.
+Additionally, it gives each department an easy access to generate reports based on sub-datasets just by modifying the Endnote and CSV databases.
 
 ## BibTeX
 
