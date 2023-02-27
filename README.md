@@ -1,4 +1,5 @@
 # Publications from the departments of Adult Psychiatry and Child & Adolescent Psychiatry in the Region of Southern Denmark, 2022
+_Anton Tambour Gregersen, Pranga Prava Mandal, Armaghan Agharazi, Povl Munk-Jørgensen_
 
 ## Method for the 2022 reports:
 
