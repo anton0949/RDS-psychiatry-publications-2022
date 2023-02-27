@@ -1,0 +1,237 @@
+---
+output: pdf_document
+fontfamily: Playfair Display
+classoption: a4paper
+header-includes:
+    - \usepackage{booktabs}
+    - \renewcommand{\arraystretch}{1.5}
+    - \usepackage{fancyhdr}
+    - \pagestyle{fancy}
+    - \fancyhf{}
+    - \renewcommand{\headrulewidth}{0pt}
+---
+
+```{r echo = FALSE}
+report_data <- readr::read_csv(
+    here::here("Analysis", "Output", "report_data.csv"),
+    show_col_types = FALSE
+)
+
+make_table_type1 <- function(data) {
+    return(
+        knitr::kable(
+            readr::read_csv(
+                here::here(data),
+                show_col_types = FALSE
+            ),
+            "latex",
+            booktabs = TRUE,
+            col.names = c(
+                "Year",
+                "No. of publications",
+                "Total impact factor",
+                "Mean impact factor",
+                "Median impact factor"
+            )
+        ) |>
+        kableExtra::kable_styling(full_width = TRUE) |>
+        kableExtra::column_spec(1, bold = TRUE)
+    )
+}
+
+make_table_type2 <- function(data) {
+    return(
+        knitr::kable(
+            readr::read_csv(
+                here::here(data),
+                show_col_types = FALSE
+            ),
+            "latex",
+            booktabs = TRUE,
+            col.names = c(
+                "Journal Impact Factor",
+                2014:2022
+            )
+        ) |>
+        kableExtra::kable_styling(full_width = TRUE) |>
+        kableExtra::column_spec(1, bold = TRUE) |>
+        kableExtra::row_spec(13, italic = TRUE)
+    )
+}
+```
+
+\fancyfoot[LE,RO]{\textit{`r report_data$footer`} • \textbf{\thepage}}
+
+\huge
+**All publications with authors from departments of `r report_data$department` in the Region of Southern Denmark**
+\vspace*{1.0cm}
+\large
+
+**Figure 1** `r report_data$department` - Number of all publications
+
+![](`r here::here("Analysis", "Output", "fig1.jpeg")`)
+
+\vspace*{0.5cm}
+
+**Figure 2** `r report_data$department` - Mean impact factor for all publication
+
+![](`r here::here("Analysis", "Output", "fig2.jpeg")`)
+
+\pagebreak
+
+**Figure 3** `r report_data$department` - Median impact factor for all publication
+
+![](`r here::here("Analysis", "Output", "fig3.jpeg")`)
+
+\vspace*{0.5cm}
+
+**Figure 4** `r report_data$department` - All publications distributed according to impact factor for 2021 and 2022
+
+![](`r here::here("Analysis", "Output", "fig4.jpeg")`)
+
+\pagebreak
+\huge
+**Publications with first/senior authors from departments of `r report_data$department` in the Region of Southern Denmark**
+\vspace*{1.0cm}
+\large
+
+**Figure 5** `r report_data$department` - Number of publications with first/senior author from the Region of Southern Denmark
+
+![](`r here::here("Analysis", "Output", "fig5.jpeg")`)
+
+\vspace*{0.5cm}
+
+**Figure 6** `r report_data$department` - Mean impact factor for publication with first/senior author from the Region of Southern Denmark
+
+![](`r here::here("Analysis", "Output", "fig6.jpeg")`)
+
+\pagebreak
+
+**Figure 7** `r report_data$department` - Median impact factor for publication with first/senior author from the Region of Southern Denmark
+
+![](`r here::here("Analysis", "Output", "fig7.jpeg")`)
+
+\vspace*{0.5cm}
+
+**Figure 8** `r report_data$department` - Publications with first/senior author from the Region of Southern Denmark distributed according to impact factor for 2020 and 2021
+
+![](`r here::here("Analysis", "Output", "fig8.jpeg")`)
+
+\pagebreak
+\huge
+**Publications in the upper one third of Journal Impact Factor**
+\vspace*{1.0cm}
+\large
+
+**Figure 9** `r report_data$department` - Mean impact factor for the upper one third of the publications
+
+![](`r here::here("Analysis", "Output", "fig9.jpeg")`)
+
+\vspace*{0.5cm}
+
+**Figure 10** `r report_data$department` - Median impact factor for the upper one third of the publications
+
+![](`r here::here("Analysis", "Output", "fig10.jpeg")`)
+
+\pagebreak
+\huge
+**Publications with first/senior authors in the upper one third of Journal Impact Factor**
+\vspace*{1.0cm}
+\large
+
+**Figure 11** `r report_data$department` - Mean impact factor for the upper one third of the publications with first/senior authors
+
+![](`r here::here("Analysis", "Output", "fig11.jpeg")`)
+
+\vspace*{0.5cm}
+
+**Figure 12** `r report_data$department` - Median impact factor for the upper one third of the publications with first/senior authors
+
+![](`r here::here("Analysis", "Output", "fig12.jpeg")`)
+
+\pagebreak
+\huge
+**Supplementary tables**
+\vspace*{1.0cm}
+
+\large
+**Table 1** `r report_data$department` - All publications with author from the Region of Southern Denmark
+\normalsize
+```{r echo = FALSE}
+    make_table_type1(here::here("Analysis", "Output", "table1.csv"))
+```
+
+\vspace*{0.5cm}
+
+\large
+**Table 2** `r report_data$department` - Publications with first/senior author from the Region of Southern Denmark
+\normalsize
+```{r echo = FALSE}
+    make_table_type1(here::here("Analysis", "Output", "table2.csv"))
+```
+
+\pagebreak
+\large
+**Table 3** `r report_data$department` - Distribution of impact factor for all publications
+\normalsize
+```{r echo = FALSE}
+    make_table_type2(here::here("Analysis", "Output", "table3.csv"))
+```
+
+\vspace*{0.5cm}
+
+\large
+**Table 4** `r report_data$department` - Distribution of impact factor for publications with first/senior author from the Region of Southern Denmark
+\normalsize
+```{r echo = FALSE}
+    make_table_type2(here::here("Analysis", "Output", "table4.csv"))
+```
+
+\pagebreak
+\large
+**Table 5** `r report_data$department` – Upper third of the publications with any author from the Region of Southern Denmark
+\normalsize
+```{r echo = FALSE}
+    make_table_type1(here::here("Analysis", "Output", "table5.csv"))
+```
+
+\vspace*{0.5cm}
+
+\large
+**Table 6** `r report_data$department` - Upper third of the publications with first/senior author from the Region of Southern Denmark
+\normalsize
+```{r echo = FALSE}
+    make_table_type1(here::here("Analysis", "Output", "table6.csv"))
+```
+
+\pagebreak
+\huge
+**List of publications**
+\vspace*{1.0cm}
+\normalsize
+
+```{r echo = FALSE}
+ref2022 <-
+    readr::read_csv(
+        here::here("Analysis", "Output", "dataset.csv"),
+        show_col_types = FALSE
+    ) |>
+    dplyr::filter(excluded == 0)
+
+refsstr <- ""
+
+for (i in seq_len(nrow(ref2022))) {
+    ref <- ref2022[i, ]
+
+    refsstr <- paste0(
+        refsstr,
+        ref$formatted,
+        " **(JIF: ",
+        ref$jif2021,
+        ")**",
+        "\n\n"
+    )
+}
+```
+
+`r refsstr`
