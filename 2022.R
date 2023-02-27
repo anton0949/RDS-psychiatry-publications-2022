@@ -15,6 +15,7 @@ source(here::here("Analysis", "create_report.R"))
 orange <- "#c55a11"
 blue <- "#2f5597"
 green <- "#548235"
+purple <- "#7d3c98"
 
 # Load font
 sysfonts::font_add_google("Playfair Display", family = "reportfont")

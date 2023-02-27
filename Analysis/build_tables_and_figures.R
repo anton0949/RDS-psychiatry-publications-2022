@@ -113,7 +113,7 @@ build_tables_and_figures <- function(
         historical_postfix = "_upper_first_senior",
         dataset = references_upper_first_senior,
         here::here("Analysis", "Output", "fig11.jpeg"),
-        green
+        purple
     )
 
     median_figure(
@@ -145,7 +145,7 @@ build_tables_and_figures <- function(
         historical_postfix = "_upper_first_senior",
         dataset = references_upper_first_senior,
         here::here("Analysis", "Output", "fig12.jpeg"),
-        green
+        purple
     )
 
     distribution_figure(
