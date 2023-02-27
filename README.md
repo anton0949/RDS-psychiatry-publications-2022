@@ -18,6 +18,8 @@ Any references in the PURE report that were not relevant to the study were manua
 We ran build_jif.R” to build a database of journals stored in the CSV formatted in `/Data/jif.csv`. To the database we manually added the corresponding Journal Impact Factor along with a source. Preferable we used The Journal Citation Reports (JCR) produced by Clarivate Analytics as source.
 In file “2022.R” we prepared our tooling for building the report data.
 
+When the script made all figures and tables the final report can be “knitted” via. `report.Rmd`
+
 **Summary of relevant datafile:**
 - `/Data/PURE.docx`: The original data source provided by the university library.
 - `/Data/excluded.csv`: List of exluded articles along with a reason.
