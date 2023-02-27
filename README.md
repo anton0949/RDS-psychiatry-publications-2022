@@ -11,11 +11,11 @@ Unique references published in peer-reviewed journals with a DOI number were ide
 
 Using the `author_extract.R` script we generated a complete author list database in the CSV format. This should also be located in the `/Data` directory named `authors.csv`.
 
-For each author registered in the PURE report we manually checked their affiliations to determine how they should be included in our dataset. If an author had an affiliation to the departments, it was noted in the author list database generated above. In column “type” we putted “ADULT” if they was affiliatated to the departments of Adult Psychiatry; “BUP” if affiliation to the departments of Child and Adolescence Psychiatry and “NON” if the author was confirmed not having an affiliation to either of the departments. Rest of the authors was left blank.
+For each author registered in the PURE report we manually checked their affiliations to determine how they should be included in our dataset. If an author had an affiliation to the departments, it was noted in the author list database generated above. In column “type” we have put “ADULT” if they were affiliatated to the departments of Adult Psychiatry; “BUP” if affiliation to the departments of Child and Adolescence Psychiatry and “NON” if the author was confirmed not having an affiliation to either of the departments. Rest of the authors were left blank.
 
-Any references in the PURE report that were not relevant to the study were manually excluded by putting their DOI number along with an exclusion reason in the excluded.CSV file. Some references without was without DOI, here we putted the title.
+Any references in the PURE report that were not relevant to the study were manually excluded by putting their DOI number along with an exclusion reason in the exclution CSV file. Some references was without DOI, here we have put the title.
 
-We ran build_jif.R” to build a database of journals stored in the CSV formatted in `/Data/jif.csv`. To the database we manually added the corresponding Journal Impact Factor along with a source. Preferable we used The Journal Citation Reports (JCR) produced by Clarivate Analytics as source.
+We ran build_jif.R” to build a database of journals stored in the CSV formatted in `/Data/jif.csv`. To the database we manually added the corresponding Journal Impact Factor along with a source. Preferably, we used The Journal Citation Reports (JCR) produced by Clarivate Analytics as source.
 In file “2022.R” we prepared our tooling for building the report data.
 
 When the script made all figures and tables the final report can be “knitted” via. `report.Rmd`
