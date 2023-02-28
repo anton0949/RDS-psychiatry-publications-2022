@@ -3,8 +3,10 @@ _Anton Tambour Gregersen, Pranga Prava Mandal, Armaghan Agharazi, Povl Munk-Jør
 
 ## Downloads
 
-PDF:
+**PDF:**
+
 _Publications from the departments of Adult Psychiatry in the Region of Southern Denmark, 2022_
+
 _Publications from the departments of Child & Adolescent Psychiatry in the Region of Southern Denmark, 2022_
 
 
