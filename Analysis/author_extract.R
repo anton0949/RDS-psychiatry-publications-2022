@@ -1,6 +1,6 @@
 local({
     # Don't overwrite if manual changes are made
-    authors <- readr::read_csv(
+    authors_data <- readr::read_csv(
         here::here("Data", "authors.csv"),
         show_col_types = FALSE
     )
@@ -16,11 +16,11 @@ local({
         authors <- xml2::xml_find_all(reference, ".//author")
 
         for (author in authors) {
-            name <- xml2::xml_text(author);
+            name <- xml2::xml_text(author)
 
             # Add author name if not existing
-            if (any(df$name == name) == FALSE) {
-                authors <- authors |> tibble::add_row(
+            if (any(authors_data$name == name) == FALSE) {
+                authors_data <- authors_data |> tibble::add_row(
                     name = name
                 )
             }
@@ -29,7 +29,7 @@ local({
 
     # Save new author list
     write.csv(
-        authors,
+        authors_data |> dplyr::arrange(name),
         file = here::here("Data", "authors.csv"),
         row.names = FALSE,
         fileEncoding = "UTF-8"

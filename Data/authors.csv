@@ -1,962 +1,1153 @@
 "name","type"
-"Achenbach, T. M.","NA"
-"Adair, C. E.","NA"
-"Abildgren, L.","NA"
-"Agerbo, E.","NA"
-"Albieri, V.","NA"
-"Alcohol Clinical Trials, Workgroup","NA"
-"Aldana, B. I.","NA"
-"Alizadeh, H.","NA"
-"Almqvist, F.","NA"
-"Almvik, R.","NA"
-"Amorim, L. S. D.","NA"
-"Andelic, N.","NA"
-"Andersen, D. C.","NA"
-"Andersen, E. A. W.","NA"
-"Andersen, J. H.","NA"
+"Abildgren, L.",NA
+"Achenbach, T. M.",NA
+"Achtyes, E. D.",NA
+"Adair, C. E.",NA
+"Aebi, M.",NA
+"Agaoglu, E.",NA
+"Agerbo, E.",NA
+"Albieri, V.",NA
+"Albinana, C.",NA
+"Alcohol Clinical Trials, Workgroup",NA
+"Alda, M.",NA
+"Aldana, B. I.",NA
+"Alizadeh, H.",NA
+"Almqvist, F.",NA
+"Almvik, R.",NA
+"Als, T. D.",NA
+"Altinbas, K.",NA
+"Amorim, L. S. D.",NA
+"Andelic, N.",NA
+"Andersen, Aida Hougaard",NA
+"Andersen, D. C.",NA
+"Andersen, E. A. W.",NA
+"Andersen, H. S.",NA
+"Andersen, J. H.",NA
 "Andersen, K.","ADULT"
-"Andersen, M. S.","NA"
-"Andersen, P. T.","NA"
-"Andersen, T. E.","NA"
-"Andersen, T. L.","NA"
-"Andersen-Ranberg, N.","NA"
-"Andersson, G.","NA"
-"Andrade, D. M.","NA"
-"Andreasson, S.","NA"
+"Andersen, K. K.",NA
+"Andersen, M. S.",NA
+"Andersen, P.",NA
+"Andersen, P. T.",NA
+"Andersen, T. E.",NA
+"Andersen, T. L.",NA
+"Andersen-Ranberg, N.",NA
+"Andersson, G.",NA
+"Andrade, D. M.",NA
+"Andreasen, M.",NA
+"Andreassen, O. A.",NA
+"Andreasson, S.",NA
+"Andree Larsen, V.",NA
+"Angelopoulos, E.",NA
+"Anhoj, S.",NA
 "Anhoj, S. J.","ADULT"
 "Anthony, D. C.","NON"
-"Anton, R.","NA"
-"Anzalone, M.","NA"
-"Araj-Khodaei, M.","NA"
-"Araya, R.","NA"
-"Arnfred, S. M. H.","NA"
-"Ascone, L.","NA"
-"Asherson, P.","NA"
-"Ashton-James, C. E.","NA"
+"Anton, R.",NA
+"Anzalone, M.",NA
+"Appadurai, V.",NA
+"Araj-Khodaei, M.",NA
+"Araya, R.",NA
+"Ardau, R.",NA
+"Arendt, I. T. P.",NA
+"Arnfred, S. M. H.",NA
+"Ascone, L.",NA
+"Asherson, P.",NA
+"Ashton-James, C. E.",NA
+"Askgaard, G.",NA
 "Asmussen, J.","BUP"
-"Astvad, M.","NA"
-"Aunan-Diop, J. S.","NA"
-"Austin, S. F.","NA"
-"Axelsson, M.","NA"
-"Babic Perhoc, A.","NA"
-"Badalzadeh, R.","NA"
-"Baker, J.","NA"
-"Banaschewski, T.","NA"
-"Bang-Moller, S. K.","NA"
-"Banos, R.","NA"
-"Barfod, S.","NA"
-"Barington, T.","NA"
-"Barkovits, K.","NA"
-"Bartek, J.","NA"
-"Bartek, J., Jr.","NA"
-"Baskaran, R.","NA"
-"Basu, M. N.","NA"
+"Astvad, M.",NA
+"Aunan-Diop, J. S.",NA
+"Austin, S. F.",NA
+"Axelsson, M.",NA
+"Aydin, M.",NA
+"Ayhan, Y.",NA
+"Babic Perhoc, A.",NA
+"Badalzadeh, R.",NA
+"Baekvad-Hansen, M.",NA
+"Baethge, C.",NA
+"Bailey, C. J.",NA
+"Baker, J.",NA
+"Balaban, C.",NA
+"Banaschewski, T.",NA
+"Bang Madsen, K.",NA
+"Bang-Moller, S. K.",NA
+"Banos, R.",NA
+"Barfod, S.",NA
+"Barington, T.",NA
+"Barkovits, K.",NA
+"Bartek, J.",NA
+"Bartek, J., Jr.",NA
+"Baskaran, R.",NA
+"Basu, M. N.",NA
+"Bauer, M.",NA
+"Bauer, R.",NA
+"Baumann, K.",NA
 "Baumbach, J.","NON"
-"Beck, H. C.","NA"
-"Begovac, I.","NA"
+"Baune, B. T.",NA
+"Becerra-Palars, C.",NA
+"Beck, H. C.",NA
+"Beck, I. H.",NA
+"Beck, Iben H.",NA
+"Begovac, I.",NA
+"Behere, A. P.",NA
+"Behere, P. B.",NA
 "Behrendt, S.","ADULT"
 "Beier, C. P.","NON"
-"Bender, D.","NA"
-"Benedikz, E.","NA"
-"Benros, M. E.","NA"
-"Bente, L. M.","NA"
-"Berger, T.","NA"
-"Bergh, M. S.","NA"
-"Bergholt, B.","NA"
-"Bergink, V.","NA"
-"Berring, L. L.","NA"
-"Bidstrup, P. E.","NA"
+"Belete, H.",NA
+"Belete, T.",NA
+"Belizario, G. O.",NA
+"Bellivier, F.",NA
+"Belmaker, R. H.",NA
+"Bender, D.",NA
+"Benedetti, F.",NA
+"Benedikz, E.",NA
+"Benros, M. E.",NA
+"Bente, L. M.",NA
+"Berger, T.",NA
+"Bergh, M. S.",NA
+"Bergholt, B.",NA
+"Bergink, V.",NA
+"Berk, M.",NA
+"Berring, L. L.",NA
+"Berrocal Montiel, C.",NA
+"Bersudsky, Y.",NA
+"Bicakci, S.",NA
+"Bidstrup, P. E.",NA
 "Bikic, A.","BUP"
 "Bilberg, R.","ADULT"
 "Bilenberg, N.","BUP"
-"Bird, H.","NA"
+"Bilenberg, Niels",NA
+"Birabwa-Oketcho, H.",NA
+"Bird, H.",NA
 "Birkeland, S. F.","ADULT"
-"Bisgaard, H.","NA"
-"Bjarkam, C. R.","NA"
-"Bjerck-Amundsen, F.","NA"
-"Bjorner, J. B.","NA"
-"Bliddal, M.","NA"
+"Birkeland, Søren",NA
+"Bischof, G.",NA
+"Bisgaard, H.",NA
+"Bjarkam, C. R.",NA
+"Bjella, T. D.",NA
+"Bjerck-Amundsen, F.",NA
+"Bjorner, J. B.",NA
+"Bjorvatn, B.",NA
+"Bjørkly, Stål",NA
 "Blaabjerg, M.","NON"
-"Bogenschutz, M.","NA"
-"Boggild, H.","NA"
-"Bonnelykke, K.","NA"
-"Botella, C.","NA"
-"Botker, M. T.","NA"
-"Boye, H.","NA"
-"Brabrand, M.","NA"
-"Brambilla, R.","NA"
-"Braun-Michl, B.","NA"
-"Bricca, A.","NA"
-"Broberg, A. G.","NA"
-"Brochner, C. B.","NA"
-"Broe, A.","NA"
-"Bruni, O.","NA"
-"Bu Hringer, G.","NA"
-"Buhmann, C.","NA"
-"Buhringer, G.","ADULT"
-"Buitelaar, J.","NA"
-"Burr, H.","NA"
-"Buus, N.","NA"
-"Byg, K. E.","NA"
-"Cantio, C.","NA"
-"Center-Tbi Participants","NA"
-"Cerga Pashoja, A.","NA"
-"Chahed, M.","NA"
-"Chang, N. H. S.","NA"
-"Chawes, B.","NA"
-"Chemke-Dreyfus, A.","NA"
-"Christensen, J.","NA"
+"Bliddal, M.",NA
+"Bogenschutz, M.",NA
+"Boggild, H.",NA
+"Bonnelykke, K.",NA
+"Borglum, A. D.",NA
+"Botella, C.",NA
+"Botker, M. T.",NA
+"Bouchard, S.",NA
+"Boye, H.",NA
+"Boye, Henriette",NA
+"Brabrand, M.",NA
+"Brady, C.",NA
+"Brambilla, R.",NA
+"Brandeis, D.",NA
+"Braun-Michl, B.",NA
+"Breen, G.",NA
+"Bricca, A.",NA
+"Broberg, A. G.",NA
+"Brochner, C. B.",NA
+"Broe, A.",NA
+"Bruni, O.",NA
+"Bruun, H.","ADULT"
+"Bu Hringer, G.","NON"
+"Buchholtz, P. E.",NA
+"Buhmann, C.",NA
+"Buhringer, G.","NON"
+"Buitelaar, J.",NA
+"Bulik, C. M.",NA
+"Burr, H.",NA
+"Bussing, A.",NA
+"Buus, N.",NA
+"Buus, Niels",NA
+"Bybjerg-Grauholm, J.",NA
+"Byg, K. E.",NA
+"Bühringer, Gerhard","NON"
+"Cabrera, J.",NA
+"Cantio, C.","NON"
+"Cantio, C.","NON"
+"Cantio, E.",NA
+"Cappucciati, M.",NA
+"Carlsen, J.",NA
+"Carrozzino, D.",NA
+"Castro, A. M. P.",NA
+"Ceccatelli, S.",NA
+"Center-Tbi Participants",NA
+"Cerga Pashoja, A.",NA
+"Cesta, C. E.",NA
+"Chahed, M.",NA
+"Chang, N. H. S.",NA
+"Chawes, B.",NA
+"Chemke-Dreyfus, A.",NA
+"Chen, W. L.",NA
+"Cheung, E. Y. W.",NA
+"Chiesa, S.",NA
+"Christensen, A. S.",NA
+"Christensen, J.",NA
+"Christensen, K. S.",NA
 "Christensen, L. F.","ADULT"
-"Christensen, R. H.","NA"
-"Christensen, T. N.","NA"
-"Christesen, H. T.","NA"
+"Christensen, R. H.",NA
+"Christensen, T. N.",NA
+"Christesen, H. B. T.",NA
+"Christesen, H. T.",NA
+"Christiansen, E.",NA
+"Christiansen, Erik",NA
 "Christiansen, R.","ADULT"
-"Cieslak, R.","NA"
+"Christiansen, Regina",NA
+"Cieslak, R.",NA
 "Clausen, B. H.","NON"
-"Clausen, L.","NA"
-"Clausen, T.","NA"
-"Clemmesen, J. O.","NA"
-"Collingwood, A.","NA"
-"Coman, K. E.","NA"
-"Conway, P. M.","NA"
-"Cordova Calderon, M. A.","NA"
-"Cormand, B.","NA"
-"Correll, C. U.","NA"
-"Crosbie, J.","NA"
-"Crudgington, H.","NA"
-"Cumming, P.","NA"
-"Dahl Steffensen, K.","NA"
-"Dahlrot, R. H.","NA"
-"Dalgas, U.","NA"
+"Clausen, L.",NA
+"Clausen, T.",NA
+"Clemmesen, J. O.",NA
+"Coghill, D.",NA
+"Coleman, J. R. I.",NA
+"Collingwood, A.",NA
+"Coman, K. E.",NA
+"Conway, P. M.",NA
+"Cordova Calderon, M. A.",NA
+"Cormand, B.",NA
+"Correll, C. U.",NA
+"Cortese, S.",NA
+"Cosci, F.",NA
+"Crosbie, J.",NA
+"Crowe, M.",NA
+"Crudgington, H.",NA
+"Cumming, P.",NA
+"Cuomo, A.",NA
+"Curlin, F.",NA
+"Dahl Steffensen, K.",NA
+"Dahlrot, R. H.",NA
+"Dale, Karl Yngvar",NA
+"Daley, D.",NA
+"Dalgaard, C. M.",NA
+"Dalgas, U.",NA
+"Dallaspezia, S.",NA
 "Dalsgaard, S.","NON"
-"Dalton, S. O.","NA"
-"Damkier, P.","NA"
-"Damsgaard, J. B.","NA"
-"Dang, H. M.","NA"
+"Dalton, S. O.",NA
+"Damkier, P.",NA
+"Damsgaard, J. B.",NA
+"Danckaerts, M.",NA
+"Dang, H. M.",NA
+"Daniela Maier, A.",NA
+"Danielsen, A. A.",NA
 "Davidsen, K. A.","BUP"
-"de Bejczy, A.","NA"
-"De Marco, L.","NA"
-"Degn, M.","NA"
-"Diniz, M. G.","NA"
-"Dobrean, A.","NA"
-"Dopfner, M.","NA"
-"Doudet, D. J.","NA"
-"Doyle, A. E.","NA"
-"Dreier, J. W.","NA"
-"Duarte-Andrade, F. F.","NA"
-"Dunstan, I. K.","NA"
-"Ebdrup, B. H.","NA"
-"Eberhard-Gran, M.","NA"
-"Ebert, D. D.","NA"
-"Ebrahimi, A.","NA"
-"Eggers, B.","NA"
-"Eisenacher, M.","NA"
+"Davidsen, Kirstine A.",NA
+"De Marco, L.",NA
+"Degn, M.",NA
+"Del Zompo, M.",NA
+"Desai, P.",NA
+"Dines, D.",NA
+"Diniz, M. G.",NA
+"Dittmann, R. W.",NA
+"Dobrean, A.",NA
+"Dodd, S.",NA
+"Doepfner, M.",NA
+"Dopfner, M.",NA
+"Doudet, D. J.",NA
+"Doyle, A. E.",NA
+"Drasbek, K. R.",NA
+"Dreier, J. W.",NA
+"Dreyer, A. F.",NA
+"Dreyer, Pia",NA
+"Duan, Y.",NA
+"Duarte-Andrade, F. F.",NA
+"Dunstan, I. K.",NA
+"Dyrberg, H.",NA
+"Ebdrup, B. H.",NA
+"Eberhard-Gran, M.",NA
+"Ebert, D. D.",NA
+"Ebrahimi, A.",NA
+"Eggers, B.",NA
+"Ehlers, L. H.",NA
+"Eisenacher, M.",NA
 "Ejlersen, M.","NON"
-"Ekstrom, T. J.","NA"
-"Elkjaer, M. L.","NA"
-"Ellingsen, T.","NA"
-"Ellman, D. G.","NA"
-"Emiliussen, J.","ADULT"
-"Engelsen, S.","NA"
-"Eplov, L. F.","NA"
-"Eriksson, L. E.","NA"
-"Erlang Sorensen, M.","NA"
+"Ekstrom, T. J.",NA
+"Elkjaer, M. L.",NA
+"Ellingsen, T.",NA
+"Ellman, D. G.",NA
+"Emiliussen, J.","NON"
+"Emiliussen, Jakob","NON"
+"Engelsen, S.",NA
+"Engelsen, Søren",NA
+"Eplov, L. F.",NA
+"Eriksen, L. S.",NA
+"Eriksson, L. E.",NA
+"Erlang Sorensen, M.",NA
 "Erlangsen, A.","NON"
-"Ernst, M. T.","NA"
-"Erol, N.","NA"
-"Fagerlund, B.","NA"
-"Falk, D.","NA"
-"Falster, C.","NA"
-"Faraone, S. V.","NA"
-"Fathabadipour, S.","NA"
-"Felicori, L. F.","NA"
+"Ernst, M.",NA
+"Ernst, M. T.",NA
+"Erol, N.",NA
+"Esbol, A. M.",NA
+"Etain, B.",NA
+"Fagerlund, B.",NA
+"Fagiolini, A.",NA
+"Fahrenholtz, I. L.",NA
+"Falk, D.",NA
+"Falster, C.",NA
+"Faraone, S. V.",NA
+"Fasterholdt, I.",NA
+"Fathabadipour, S.",NA
+"Felicori, L. F.",NA
+"Fellendorf, F. T.",NA
+"Ferensztajn-Rochowiak, E.",NA
+"Ferrin, M.",NA
 "Fex Svenningsen, A.","NON"
 "Fex-Svenningsen, A.","NON"
-"Fink-Jensen, A.","NA"
+"Fiedorowicz, J. G.",NA
+"Find, L. G.",NA
+"Fink-Jensen, A.",NA
 "Finsen, B.","NON"
 "Fluttert, F.","ADULT"
-"Foli-Andersen, P.","NA"
-"Folker, M. P.","NA"
-"Folsgaard, N.","NA"
-"Fonagy, P.","NA"
-"Fong, C. Y.","NA"
-"Forns, M.","NA"
-"Francioli, L.","NA"
-"Frandsen, C. L. B.","NA"
-"Frandsen, T. F.","NA"
-"Franke, B.","NA"
-"Frederiksen, J. L.","NA"
-"Freund, K. M.","NA"
-"Frich, L. H.","NA"
-"Frisch, T.","NA"
-"Frokjaer, V. G.","NA"
-"Fuentes, J.","NA"
-"Fugleholm, K.","NA"
-"Fuglsang, E. H.","NA"
-"Fusaroli, R.","NA"
-"Gaist, T. A.","NA"
-"Gao, H.","NA"
-"Garcia-Palacios, A.","NA"
-"Garde, A. H.","NA"
-"Gardella, E.","NA"
-"Gasse, C.","NA"
-"Gelderblom, M.","NA"
-"Gerlach, M.","NA"
-"Gesche, J.","NA"
+"Fluttert, F. A. J.",NA
+"Foli-Andersen, P.",NA
+"Folke, S.",NA
+"Folker, M. P.",NA
+"Folsgaard, N.",NA
+"Fonagy, P.",NA
+"Fong, C. Y.",NA
+"Fonss, L.",NA
+"Forns, M.",NA
+"Fountoulakis, K. N.",NA
+"Francioli, L.",NA
+"Frandsen, C. L. B.",NA
+"Frandsen, T. F.",NA
+"Franke, B.",NA
+"Frederiksen, J. L.",NA
+"Freude, K.",NA
+"Freund, K. M.",NA
+"Frich, L. H.",NA
+"Frick, E.",NA
+"Frisch, T.",NA
+"Frokjaer, V. G.",NA
+"Fruekilde, S. K.",NA
+"Frye, M. A.",NA
+"Fröhner, Juliane H.",NA
+"Fuentes, J.",NA
+"Fugleholm, K.",NA
+"Fuglsang, E. H.",NA
+"Fuglsang, N. F. B.",NA
+"Furu, K.",NA
+"Fusaroli, R.",NA
+"Gaist, T. A.",NA
+"Gao, H.",NA
+"Garcia-Palacios, A.",NA
+"Garde, A. H.",NA
+"Gardella, E.",NA
+"Garthe, I.",NA
+"Gasse, C.",NA
+"Gazerani, P.",NA
+"Gbyl, K.",NA
+"Gelderblom, M.",NA
+"Geoffroy, P. A.",NA
+"Gerlach, M.",NA
+"Gesche, J.",NA
 "Gildberg, F.","ADULT"
 "Gildberg, F. A.","ADULT"
+"Gildberg, Frederik Alkier","ADULT"
 "Gjedde, A.","NON"
-"Glenthoj, B. Y.","NA"
-"Glintborg, D.","NA"
-"Goetze, J. P.","NA"
-"Goharbakhsh, N.","NA"
-"Gomes, C. C.","NA"
-"Gomez, R. S.","NA"
-"Goschke, T.","NA"
-"Goudriaan, A. E.","NA"
-"Gramsbergen, J. B.","NA"
-"Grandjean, P.","NA"
-"Graumann, O.","NA"
-"Greenberg, D. A.","NA"
-"Griepke, S.","NA"
-"Grontved, S.","NA"
-"Grossman, R.","NA"
-"Grupe, E.","NA"
-"Grynderup, M. B.","NA"
+"Glenn, T.",NA
+"Glenthoj, B. Y.",NA
+"Glintborg, D.",NA
+"Goetze, J. P.",NA
+"Goharbakhsh, N.",NA
+"Gomes, C. C.",NA
+"Gomez, R. S.",NA
+"Gondan, M.",NA
+"Gonzalez-Pinto, A.",NA
+"Goschke, T.",NA
+"Goschke, Thomas",NA
+"Gottlieb, J. F.",NA
+"Goudriaan, A. E.",NA
+"Grafnings, M.",NA
+"Gramsbergen, J. B.",NA
+"Grandjean, P.",NA
+"Graumann, O.",NA
+"Greenberg, D. A.",NA
+"Griepke, S.",NA
+"Grof, P.",NA
+"Gronhoj, M. H.",NA
+"Grontved, S.",NA
+"Grossman, R.",NA
+"Grove, J.",NA
+"Grupe, E.",NA
+"Grynderup, M. B.",NA
 "Guala, M. M.","ADULT"
-"Gudex, C.","NA"
-"Gudiksen, A.","NA"
-"Guethmundsson, H. S.","NA"
-"Guldager, R.","NA"
-"Guler, D. B.","NA"
-"Gyrd-Hansen, D.","NA"
-"Halken, S.","NA"
-"Hall, A.","NA"
-"Hallas, J.","NA"
-"Halle, B.","NA"
-"Hamandi, K.","NA"
-"Hannesdottir, H.","NA"
-"Hansen, A. M.","NA"
+"Gudex, C.",NA
+"Gudiksen, A.",NA
+"Guethmundsson, H. S.",NA
+"Guldager, R.",NA
+"Guler, D. B.",NA
+"Gutierrez-Jimenez, E.",NA
+"Gyrd-Hansen, D.",NA
+"Haagsma, J. A.",NA
+"Haarman, B. C. M.",NA
+"Haddad, P. M.",NA
+"Halken, S.",NA
+"Hall, A.",NA
+"Hallas, J.",NA
+"Halle, B.",NA
+"Hamandi, K.",NA
+"Handberg, Charlotte",NA
+"Hannesdottir, H.",NA
+"Hansen, A. M.",NA
 "Hansen, J. P.","ADULT"
-"Hansen, J. S.","NA"
-"Hansen, M. R.","NA"
-"Hansen, R. W.","NA"
-"Hansen, S. G.","NA"
-"Hanson, L. M.","NA"
-"Harbo, F.","NA"
-"Harder, S.","NA"
-"Hasin, D. S.","NA"
-"Haslund-Vinding, J.","NA"
-"Hasselstrom, J.","NA"
-"Hassiotis, A.","NA"
-"Hauser, A. S.","NA"
-"Hazo, J. B.","NA"
+"Hansen, J. S.",NA
+"Hansen, M. B.",NA
+"Hansen, M. R.",NA
+"Hansen, Nina Beck",NA
+"Hansen, R. W.",NA
+"Hansen, S. G.",NA
+"Hanson, L. M.",NA
+"Harbo, F.",NA
+"Harder, S.",NA
+"Harima, H.",NA
+"Hartz, I.",NA
+"Hasandedic-Dapo, Lejla",NA
+"Hasin, D. S.",NA
+"Haslund-Vinding, J.",NA
+"Hasse-Sousa, M.",NA
+"Hasselstrom, J.",NA
+"Hassiotis, A.",NA
+"Hauser, A. S.",NA
+"Hazo, J. B.",NA
+"Hefti, R.",NA
 "Hell, M. E.","ADULT"
+"Hellum, R.","ADULT"
 "Hemmingsen, S. D.","ADULT"
-"Henriksen, D. P.","NA"
-"Herrero, R.","NA"
-"Hewitt-Ramirez, N.","NA"
-"Hill, C. M.","NA"
-"Hjaeresen, S.","NA"
+"Henriksen, D. P.",NA
+"Henry, C.",NA
+"Herrero, R.",NA
+"Hertz, S. P. T.",NA
+"Hesse, M.",NA
+"Hewitt-Ramirez, N.",NA
+"Hill, C. M.",NA
+"Hjaeresen, S.",NA
+"Hjerrild, S.",NA
 "Hjorth, P.","ADULT"
-"Hjorthoj, C.","NA"
-"Hogh, A.","NA"
+"Hjorthoj, C.",NA
+"Hoffding, L.",NA
+"Hogervorst, L.",NA
+"Hogh, A.",NA
 "Hohmann, S.","ADULT"
 "Hoilund-Carlsen, P. F.","NON"
 "Hojlund, M.","ADULT"
-"Hollyer, T. R.","NA"
-"Holmberg, T. T.","NA"
-"Holsgaard-Larsen, A.","NA"
-"Holtzmann, J.","NA"
-"Homolak, J.","NA"
-"Horn, C. G.","NA"
-"Horslev-Petersen, K.","NA"
-"Hosseini, L.","NA"
+"Hollis, C.",NA
+"Hollyer, T. R.",NA
+"Holmberg, T. T.",NA
+"Holmgard, C.",NA
+"Holsgaard-Larsen, A.",NA
+"Holtmann, M.",NA
+"Holtzmann, J.",NA
+"Homolak, J.",NA
+"Horder, K.","BUP"
+"Horn, C. G.",NA
+"Horslev-Petersen, K.",NA
+"Hosseini, L.",NA
+"Houenou, J.",NA
+"Hougaard, D. M.",NA
 "Hounsgaard, L.","ADULT"
 "Hulgaard, D.","BUP"
-"Hundsholt, T.","NA"
-"Husted, A.","NA"
-"Hvid, L. G.","NA"
-"Hvingelby, V. S.","NA"
+"Hulgaard, D. R.",NA
+"Hundsholt, T.",NA
+"Huniche, L.","NON"
+"Husted, A.",NA
+"Hvid, L. G.",NA
+"Hvidt, N. C.",NA
+"Hvingelby, V. S.",NA
 "Hvolby, A.","BUP"
-"Hybholt, L.","NA"
-"Haagsma, J. A.","NA"
-"Iachina, M.","NA"
+"Hybholt, L.",NA
+"Iachina, M.",NA
+"Ibroci, E.",NA
 "Ilieva, M.","ADULT"
 "Illes, Z.","NON"
-"Investigators,","NA"
-"Ivanova, M. Y.","NA"
-"Jacobsen, N.","NA"
-"Jakobsen, E.","NA"
-"Jander, A.","NA"
-"Jankovic, I.","NA"
-"Jedrzejewski, A.","NA"
-"Jensen, A.","NA"
-"Jensen, E.","NA"
-"Jensen, E. S.","NA"
-"Jensen, H. B.","NA"
-"Jensen, N. A.","NA"
-"Jensen, P. B.","NA"
-"Jensen, R. C.","NA"
-"Jensen, T. K.","NA"
-"Jensen, T. S. R.","NA"
-"Jensen, U.","NA"
-"Jeppesen, P.","NA"
-"Jepsen, J. R. M.","NA"
-"Jessen, E. T.","NA"
+"Imbesi, M.",NA
+"Ingeman, K.",NA
+"Investigators,",NA
+"Isometsa, E. T.",NA
+"Ivanova, M. Y.",NA
+"Ivkovic, M.",NA
+"Jacobsen, N.",NA
+"Jakobsen, E.",NA
+"Jakobsen, S.",NA
+"Jakobsen, S. G.",NA
+"Jakobsen, Sarah Grube",NA
+"Jander, A.",NA
+"Jankovic, I.",NA
+"Janno, S.",NA
+"Jedrzejewski, A.",NA
+"Jennum, P. J.",NA
+"Jensen, A.",NA
+"Jensen, A. M.",NA
+"Jensen, E.",NA
+"Jensen, E. K.",NA
+"Jensen, E. S.",NA
+"Jensen, H. B.",NA
+"Jensen, N. A.",NA
+"Jensen, P. B.",NA
+"Jensen, R. C.",NA
+"Jensen, T. K.",NA
+"Jensen, T. S. R.",NA
+"Jensen, Tina K.",NA
+"Jensen, U.",NA
+"Jeppesen, P.",NA
+"Jepsen, J. R. M.",NA
+"Jessen, E. T.",NA
+"Johann Vilhjalmsson, B.",NA
 "Johansen, K. K.","ADULT"
-"Jorgensen, C.","NA"
-"Jorgensen, L. B.","NA"
-"Joshanloo, M.","NA"
-"Juel, A.","NA"
-"Juel, H.","NA"
-"Kacprowski, T.","NA"
+"Johnsen, S.",NA
+"Jokiranta-Olkoniemi, E.",NA
+"Jorgensen, C.",NA
+"Jorgensen, L. B.",NA
+"Jorgensen, M. B.",NA
+"Joshanloo, M.",NA
+"Juel, A.",NA
+"Juel, H.",NA
+"Juul, S.",NA
+"Kacprowski, T.",NA
 "Kamand, M.","ADULT"
-"Kamionka, S. L.","NA"
-"Kanbayashi, Y.","NA"
-"Kaplan, Z. L. R.","NA"
-"Karalexi, M. A.","NA"
-"Karki, S.","NA"
-"Karlsen, R. V.","NA"
-"Karlsson, H.","NA"
-"Kemmeren, L.","NA"
-"Khodaii, J.","NA"
-"Kirchheiner-Rasmussen, J.","NA"
-"Kjaer, S. K.","NA"
-"Kjeldsen, M. Z.","NA"
-"Klausen, S. H.","NA"
-"Klebe, S.","NA"
-"Kleiboer, A.","NA"
-"Klucken, J.","NA"
-"Knezovic, A.","NA"
-"Knopfel, T.","NA"
-"Knox, J.","NA"
-"Kodvanj, I.","NA"
-"Kofoed, M. S.","NA"
-"Kohler-Forsberg, O.","NA"
-"Koht, J.","NA"
-"Koot, H. M.","NA"
+"Kamionka, S. L.",NA
+"Kanbayashi, Y.",NA
+"Kapczinski, F.",NA
+"Kaplan, Z. L. R.",NA
+"Karakatsoulis, G. N.",NA
+"Karalexi, M. A.",NA
+"Kardell, M.",NA
+"Karki, S.",NA
+"Karlsen, R. V.",NA
+"Karlsson, H.",NA
+"Kemmeren, L.",NA
+"Kessing, L. V.",NA
+"Khodaii, J.",NA
+"Kildegaard, H.",NA
+"Kim, S. J.",NA
+"Kirchheiner-Rasmussen, J.",NA
+"Kjaer, S. K.",NA
+"Kjeldsen, M. J.",NA
+"Kjeldsen, M. Z.",NA
+"Klausen, S. H.",NA
+"Klausen, Søren Harnow",NA
+"Klebe, S.",NA
+"Kleiboer, A.",NA
+"Klucken, J.",NA
+"Knezovic, A.",NA
+"Knopfel, T.",NA
+"Knox, J.",NA
+"Knudsen, L. V.",NA
+"Kodvanj, I.",NA
+"Koehler, K.",NA
+"Kofoed, M. S.",NA
+"Kohler-Forsberg, O.",NA
+"Koht, J.",NA
+"Kolbaek, P.",NA
+"Konieczna, Agnieszka",NA
+"Konig, B.",NA
+"Koot, H. M.",NA
 "Korsbek, L.","ADULT"
-"Korshoej, A. R.","NA"
+"Korshoej, A. R.",NA
+"Korup, A. K.","ADULT"
+"Koskela, M.",NA
+"Kot, T. L.",NA
+"Koval, M.",NA
 "Kramer Schmidt, L.","ADULT"
-"Kranzler, H. R.","NA"
-"Kraplin, A.","NA"
-"Krieger, T.","NA"
+"Kranzler, H. R.",NA
+"Kraplin, A.",NA
+"Krieger, T.",NA
 "Kristensen, B. W.","NON"
-"Kristensen, K. B.","NA"
-"Kristensen, T. S.","NA"
-"Kroigard, T.","NA"
-"Krone, W.","NA"
-"Kronke, K. M.","NA"
-"Kucharska-Mazur, J.","NA"
-"Kuerbis, A.","NA"
-"Kuhn, S.","NA"
-"Kumakura, Y.","NA"
-"Kuntsi, J.","NA"
-"Kwon, E. H.","NA"
-"Ladegaard, N.","NA"
-"Lambert, M. C.","NA"
+"Kristensen, K. B.",NA
+"Kristensen, T. S.",NA
+"Kroigard, T.",NA
+"Krone, W.",NA
+"Kronke, K. M.",NA
+"Kräplin, Anja",NA
+"Krönke, Klaus-Martin",NA
+"Kucharska-Mazur, J.",NA
+"Kuerbis, A.",NA
+"Kuettel, Andreas",NA
+"Kuhn, S.",NA
+"Kumakura, Y.",NA
+"Kuntsi, J.",NA
+"Kunz, M.",NA
+"Kupka, Käthe Friederike",NA
+"Kwon, E. H.",NA
+"Ladegaard, N.",NA
+"Lafer, B.",NA
+"Lambert, M. C.",NA
 "Lambertsen, K. L.","NON"
-"Langballe, R.","NA"
-"Langeskov-Christensen, M.","NA"
-"Langhorn, L.","NA"
+"Landen, M.",NA
+"Langballe, R.",NA
+"Langergaard, A.",NA
+"Langeskov-Christensen, M.",NA
+"Langhorn, L.",NA
+"Larsen, C. P.",NA
+"Larsen, Carsten H.",NA
+"Larsen, Christina Petrea",NA
 "Larsen, E. R.","ADULT"
-"Larsen, J.","NA"
-"Larsen, M. B.","NA"
-"Larsen, M. D.","NA"
+"Larsen, J.",NA
+"Larsen, M. B.",NA
+"Larsen, M. D.",NA
 "Larsen, M. R.","NON"
-"Larsen, P. V.","NA"
-"Larsen, S. N.","NA"
-"Larsson, H.","NA"
-"Laursen, C. B.","NA"
-"Laursen, T. M.","NA"
-"Lebahn-Hadidi, M.","NA"
-"Lebiecka, Z.","NA"
-"Leckman, J. F.","NA"
-"Leclair, A.","NA"
-"Lee Hee, Q.","NA"
-"Lesch, K. P.","NA"
-"Leung, P.","NA"
+"Larsen, P. V.",NA
+"Larsen, S. N.",NA
+"Larsen, T. S.",NA
+"Larsson, H.",NA
+"Lau, M. E.",NA
+"Lauritsen, J.",NA
+"Laursen, C. B.",NA
+"Laursen, S. L.",NA
+"Laursen, T. M.",NA
+"Law, I.",NA
+"Lawrence, R.",NA
+"Lebahn-Hadidi, M.",NA
+"Lebiecka, Z.",NA
+"Leckman, J. F.",NA
+"Leclair, A.",NA
+"Lee Hee, Q.",NA
+"Lee, E.",NA
+"Lenger, M.",NA
+"Lesch, K. P.",NA
+"Leung, P.",NA
+"Lewitzka, U.",NA
+"Licht, R. W.",NA
 "Lichtenstein, M. B.","ADULT"
-"Lim, K. S.","NA"
-"Lindberg, U.","NA"
-"Lindhardt, L.","NA"
+"Lichtenstein, Mia Beck",NA
+"Lim, K. S.",NA
+"Lindberg, U.",NA
+"Lindhardt, L.",NA
 "Lindholt, J. S.","NON"
-"Lindquist, S.","NA"
-"Lingor, P.","NA"
+"Lindquist, S.",NA
+"Lingor, P.",NA
 "Linkhorst, T.","ADULT"
-"Linnet, J.","NA"
-"Litten, R.","NA"
-"Liu, X.","NA"
-"Lokke, A.","NA"
+"Linnet, J.",NA
+"Litten, R.",NA
+"Liu, X.",NA
+"Logue, D.",NA
+"Lokke, A.",NA
 "Lolk, A.","ADULT"
-"Loo, S. K.","NA"
-"Louise Forsberg, S.","NA"
-"Lukjanska, R.","NA"
-"Lund, L. C.","NA"
-"Lund, M. C.","NA"
-"Lycke, J.","NA"
-"Lydolph, M.","NA"
-"Madsen, C.","NA"
-"Madsen, J. B.","NA"
-"Madsen, K. B.","NA"
-"Maegbaek, M. L.","NA"
-"Magai, D. N.","NA"
-"Maggiolini, A.","NA"
-"Magnus, T.","NA"
-"Maier, A. D.","NA"
-"Mainz, J.","NA"
-"Mann, K.","NA"
-"Manor, I.","NA"
-"Mansourvar, M.","NA"
-"Marcus, K.","NA"
+"Loo, S. K.",NA
+"Lopez-Jaramillo, C.",NA
+"Louise Forsberg, S.",NA
+"Lucchetti, G.",NA
+"Lukjanska, R.",NA
+"Lund, L. C.",NA
+"Lund, M. C.",NA
+"Luntamo, T.",NA
+"Lupattelli, A.",NA
+"Lycke, J.",NA
+"Lydolph, M.",NA
+"Maas, A. I. R.",NA
+"MacKenzie, A.",NA
+"Madigan, S.",NA
+"Madsen, C.",NA
+"Madsen, H. O.",NA
+"Madsen, J. B.",NA
+"Madsen, K. B.",NA
+"Madsen, Saka",NA
+"Maegbaek, M. L.",NA
+"Magai, D. N.",NA
+"Maggiolini, A.",NA
+"Magnus, T.",NA
+"Mahadevan, J.",NA
+"Mahardika, A.",NA
+"Maier, A. D.",NA
+"Mainz, J.",NA
+"Manchia, M.",NA
+"Mann, K.",NA
+"Manor, I.",NA
+"Mansourvar, M.",NA
+"Mansueto, G.",NA
+"Marcus, K.",NA
+"Marcussen, J.",NA
 "Maria Michel, T.","ADULT"
-"Markovic, L.","NA"
-"Martin, J.","NA"
-"Mathiasen, K.","NA"
-"Mathiesen, T.","NA"
-"Mathiesen, T. I.","NA"
-"Mejldal, A.","ADULT"
+"Markovic, L.",NA
+"Marsh, W.",NA
+"Martin, J.",NA
+"Martinez-Cengotitabengoa, M.",NA
+"Martiny, K.",NA
+"Mashima, Y.",NA
+"Mathiasen, K.",NA
+"Mathiesen, T.",NA
+"Mathiesen, T. I.",NA
+"Matthiesen, A. F.",NA
+"McLoughlin, D. M.",NA
+"Meesters, Y.",NA
+"Meile, J.",NA
+"Mejldal, A.","NON"
+"Melin, A. K.",NA
+"Melin, Anna",NA
+"Melle, I.",NA
 "Mellentin, A. I.","ADULT"
-"Melo-Braga, M. N.","NA"
-"Metaxas, A.","NA"
-"Metzke, C. W.","NA"
+"Melo-Braga, M. N.",NA
+"Metaxas, A.",NA
+"Metzke, C. W.",NA
 "Meyer, M.","NON"
+"Meza-Urzua, F.",NA
 "Michel, T. M.","ADULT"
-"Michelis, L. A.","NA"
-"Mikkelsen, E. G.","NA"
-"Mikolic, A.","NA"
-"Minaei, A.","NA"
-"Miranda, A.","NA"
-"Mirian, C.","NA"
+"Michelis, L. A.",NA
+"Mikkelsen, E. G.",NA
+"Mikkelsen, S.",NA
+"Mikolic, A.",NA
+"Milling, L.",NA
+"Minaei, A.",NA
+"Miranda, A.",NA
+"Mirian, C.",NA
 "Mistarz, N.","ADULT"
-"Mitta Raghava, J.","NA"
+"Mitta Raghava, J.",NA
 "Moeller, A. M.","ADULT"
-"Mogensen, C. B.","NA"
-"Mohammadi, Z.","NA"
-"Mohammadzadeh, P.","NA"
-"Molenaar, N. M.","NA"
-"Mollegaard Jepsen, J. R.","NA"
-"Moller, A.","NA"
-"Moller, J. E.","NA"
-"Moller, M.","NA"
+"Moeller, S. B.",NA
+"Mogensen, C. B.",NA
+"Mogensen, S. H.",NA
+"Mohammadi, Z.",NA
+"Mohammadzadeh, P.",NA
+"Mok, Y. M.",NA
+"Molenaar, N.",NA
+"Molenaar, N. M.",NA
+"Mollegaard Jepsen, J. R.",NA
+"Moller, A.",NA
+"Moller, J. E.",NA
+"Moller, M.",NA
+"Moller, M. B.",NA
 "Moller, R. S.","NON"
-"Moller, S.","NA"
-"Momen, N. C.","NA"
-"Monzani da Rocha, M.","NA"
-"Moreira, P. A. S.","NA"
-"Mors, O.","NA"
-"Mortensen, M. D.","NA"
-"Mortensen, O. S.","NA"
-"Mortensen, S. K.","NA"
-"Mortz, C. G.","NA"
-"Mueller, J. K.","NA"
-"Mulatu, M. S.","NA"
-"Muller, A.","NA"
-"Muller, T.","NA"
-"Muller, W. E.","NA"
-"Munch, T. N.","NA"
+"Moller, S.",NA
+"Moller, S. B.",NA
+"Momen, N. C.",NA
+"Monteith, S.",NA
+"Monzani da Rocha, M.",NA
+"Moorthy, M.",NA
+"Moreira, P. A. S.",NA
+"Morken, G.",NA
+"Morrier, Michael J.",NA
+"Mors, O.",NA
+"Mortensen, M. D.",NA
+"Mortensen, N. B.",NA
+"Mortensen, O. S.",NA
+"Mortensen, P. B.",NA
+"Mortensen, S. K.",NA
+"Mortz, C. G.",NA
+"Mosca, E.",NA
+"Mozzhegorov, A. A.",NA
+"Mueller, J. K.",NA
+"Mulatu, M. S.",NA
+"Muller, A.",NA
+"Muller, T.",NA
+"Muller, W. E.",NA
+"Munch, T. N.",NA
 "Munk-Jorgensen, P.","ADULT"
-"Munk-Laursen, T.","NA"
+"Munk-Laursen, T.",NA
 "Munk-Olsen, T.","NON"
-"Munthe, S.","NA"
-"Maas, A. I. R.","NA"
-"Naemi, A.","NA"
-"Nawrocki, A.","NA"
-"Neumer, S. P.","NA"
-"Ng, C. C.","NA"
-"Nguyen, N.","NA"
-"Niclasen, B. H.","NA"
-"Nicolau, A. B.","NA"
-"Nielsen, A. B.","NA"
+"Munoz, R.",NA
+"Munthe, S.",NA
+"Musliner, K. L.",NA
+"Mythri, S. V.",NA
+"Nacef, F.",NA
+"Nadella, R. K.",NA
+"Naemi, A.",NA
+"Nakanotani, T.",NA
+"Nawrocki, A.",NA
+"Neumer, S. P.",NA
+"Ng, C. C.",NA
+"Nguyen, N.",NA
+"Nguyen, T. D.",NA
+"Niclasen, B. H.",NA
+"Nicolau, A. B.",NA
+"Nielsen, A. B.",NA
 "Nielsen, A. S.","ADULT"
 "Nielsen, B.","ADULT"
+"Nielsen, C. M.",NA
 "Nielsen, D. G.","ADULT"
-"Nielsen, F.","ADULT"
+"Nielsen, F.","NON"
 "Nielsen, H. H.","NON"
-"Nielsen, P. S.","NA"
-"Nielsen, P. V.","NA"
-"Nielsen, R. E.","NA"
-"Nilsson, A. C.","NA"
-"Nilsson, L. S.","NA"
-"Nissen, M.","NA"
-"Nissen, M. S.","NA"
-"Nohr, B.","NA"
-"Nordentoft, M.","NA"
-"Nordgaard, J.","NA"
-"Novakova, L.","NA"
-"Novik, T. S.","NA"
-"Nygaard, L.","NA"
-"Oades, R. D.","NA"
-"Oh, K. J.","NA"
-"Olesen, L. O.","NA"
-"Olesen, M.","NA"
-"O'Malley, S. S.","NA"
-"Opsahl, T.","NA"
-"Orsini, A.","NA"
-"Orvik, M. S.","NA"
-"Osmanovic Barilar, J.","NA"
-"Overgaard, M.","NA"
-"Pagsberg, A. K.","NA"
-"Pal, D. K.","NA"
-"Palizgar, F.","NA"
-"Panjwani, N.","NA"
-"Pantelis, C.","NA"
-"Pearson, G.","NA"
+"Nielsen, J. B.",NA
+"Nielsen, P. S.",NA
+"Nielsen, P. V.",NA
+"Nielsen, R. E.",NA
+"Nilsson, A. C.",NA
+"Nilsson, L. S.",NA
+"Nishi, D.",NA
+"Nissen, M.",NA
+"Nissen, M. S.",NA
+"Nissen, R. D.","NON"
+"Nissen, Ricko Damberg",NA
+"Nohr, B.",NA
+"Nordentoft, M.",NA
+"Nordgaard, J.",NA
+"Norgaard, S. M.",NA
+"Novakova, L.",NA
+"Novik, T. S.",NA
+"Nybo, M.",NA
+"Nygaard, L.",NA
+"O'Donovan, C.",NA
+"O'Malley, S. S.",NA
+"Oades, R. D.",NA
+"Oh, K. J.",NA
+"Olesen, L. O.",NA
+"Olesen, M.",NA
+"Omrani, A.",NA
+"Ong, Ben",NA
+"Opler, M.",NA
+"Opsahl, T.",NA
+"Orsini, A.",NA
+"Orskov, P. T.",NA
+"Orvik, M. S.",NA
+"Osher, Y.",NA
+"Osmanovic Barilar, J.",NA
+"Ostergaard, S. D.",NA
+"Ouali, U.",NA
+"Overgaard, M.",NA
+"Oxholm, C.",NA
+"Packness, A.",NA
+"Pagsberg, A. K.",NA
+"Pal, D. K.",NA
+"Palizgar, F.",NA
+"Palm, C. V. B.",NA
+"Panjwani, N.",NA
+"Pantelis, C.",NA
+"Pantovic-Stefanovic, M.",NA
+"Paramala, S.",NA
+"Pariwatcharakul, P.",NA
+"Patierno, C.",NA
+"Pearson, G.",NA
 "Pedersen, A. L. W.","ADULT"
+"Pedersen, B. D.",NA
 "Pedersen, C. B.","NON"
-"Pedersen, J. K.","NA"
+"Pedersen, H. F.",NA
+"Pedersen, J. K.",NA
+"Pedersen, M. G.",NA
 "Pedersen, M. L.","ADULT"
-"Pedersen, M. M. A.","NA"
-"Pedrosa, D. J.","NA"
-"Pereira, Tdsf","NA"
-"Petersen, L.","NA"
-"Petersen, L. V.","NA"
-"Petersen, T.","NA"
-"Petot, D.","NA"
-"Petot, J. M.","NA"
-"Piepke, M.","NA"
-"Pihl-Jensen, G.","NA"
-"Piil, K.","NA"
-"Pilegaard, H.","NA"
-"Pisa, C.","NA"
-"Plass, A. M.","NA"
-"Plessen, K. J.","NA"
-"Plomgaard, P.","NA"
-"Polinder, S.","NA"
-"Pomalima, R.","NA"
-"Posserud, M. B.","NA"
-"Posth, S.","NA"
-"Pottegard, A.","NA"
+"Pedersen, M. M. A.",NA
+"Pedersen, Martin Locht",NA
+"Pedrosa, D. J.",NA
+"Pereira, Tdsf",NA
+"Petersen, L.",NA
+"Petersen, L. V.",NA
+"Petersen, T.",NA
+"Petite, J.",NA
+"Petot, D.",NA
+"Petot, J. M.",NA
+"Pfennig, A.",NA
+"Piepke, M.",NA
+"Pihl-Jensen, G.",NA
+"Pihl-Thingvad, Jesper",NA
+"Piil, K.",NA
+"Pilegaard, H.",NA
+"Pinna, M.",NA
+"Pisa, C.",NA
+"Plass, A. M.",NA
+"Plessen, K. J.",NA
+"Plomgaard, P.",NA
+"Polinder, S.",NA
+"Pomalima, R.",NA
+"Pompili, M.",NA
+"Porter, R.",NA
+"Posserud, M. B.",NA
+"Posth, S.",NA
+"Pottegard, A.",NA
 "Poulsen, F. R.","NON"
-"Poulsgaard, L.","NA"
+"Poulsgaard, L.",NA
 "Prokhorova, T.","ADULT"
-"Puggaard, L. B.","NA"
-"Purves, K. L.","NA"
-"Rajabi, M.","NA"
-"Ramos-Quiroga, J. A.","NA"
-"Ranning, A.","NA"
-"Rask, C. U.","NA"
-"Rasmussen, J.","NA"
-"Rasmussen, L.","NA"
+"Puggaard, L. B.",NA
+"Purves, K. L.",NA
+"Quiroz, D.",NA
+"Rabelo-da-Ponte, F. D.",NA
+"Rajabi, M.",NA
+"Rajagopal, V. M.",NA
+"Ramakrishnan, P.",NA
+"Ramesar, R.",NA
+"Ramos-Quiroga, J. A.",NA
+"Ranning, A.",NA
+"Rasgon, N.",NA
+"Rask, C. U.",NA
+"Rasmussen, A.",NA
+"Rasmussen, Anne A.",NA
+"Rasmussen, J.",NA
+"Rasmussen, L.",NA
 "Rasmussen, L. M.","NON"
-"Ravn, S. L.","NA"
-"Rees, M. I.","NA"
-"Reilev, M.","NA"
-"Ren, P.","NA"
-"Retel Helmrich, I. R. A.","NA"
-"Reynolds, R.","NA"
-"Ribases, M.","NA"
-"Rich, K. K.","NA"
-"Richardson, M. P.","NA"
-"Riederer, P.","ADULT"
-"Riper, H.","NA"
-"Roder, M. E.","NA"
-"Roessler, K. K.","NA"
-"Roeyers, H.","NA"
-"Rohde, C.","NA"
+"Ratta-Apha, W.",NA
+"Ratzenhofer, M.",NA
+"Ravn, S. L.",NA
+"Ravnborg, M. H.","NON"
+"Redahan, M.",NA
+"Reddy, M. S.",NA
+"Rees, M. I.",NA
+"Reichenberg, A.",NA
+"Reif, A.",NA
+"Reilev, M.",NA
+"Reininghaus, E. Z.",NA
+"Ren, P.",NA
+"Retel Helmrich, I. R. A.",NA
+"Reutfors, J.",NA
+"Reynolds, R.",NA
+"Ribases, M.",NA
+"Rich, K. K.",NA
+"Richards, J. G.",NA
+"Richardson, M. P.",NA
+"Riederer, P.","NON"
+"Riper, H.",NA
+"Ritter, P.",NA
+"Ro, O.",NA
+"Robakis, T.",NA
+"Roder, M. E.",NA
+"Roessler, K. K.",NA
+"Roeyers, H.",NA
+"Rohde, C.",NA
 "Rom Poulsen, F.","NON"
-"Rommel, A. S.","NA"
-"Rosenberg, J. B.","NA"
-"Roshani, F.","NA"
+"Rommel, A. S.",NA
+"Rosenberg, J. B.",NA
+"Rosenstand, N. J.",NA
+"Roshani, F.",NA
 "Rossen, C. B.","BUP"
-"Rosthoj, S.","NA"
-"Rotbain, E.","NA"
-"Rothenberger, A.","NA"
-"Rottger, R.","NA"
-"Roussos, A.","NA"
-"Rowaert, S.","NA"
-"Rubboli, G.","NA"
-"Rudan, V.","NA"
-"Rugulies, R.","NA"
-"Rybner, A.","NA"
-"Ryding, M.","NA"
-"Salkovic-Petrisic, M.","NA"
-"Samochowiec, J.","NA"
-"Sawyer, M. G.","NA"
-"Schachar, R.","NA"
-"Schadlich, I. S.","NA"
-"Scheie, D.","NA"
-"Schelde-Olesen, M. T.","NA"
+"Rossen, Camilla Blach",NA
+"Rosthoj, S.",NA
+"Rotbain, E.",NA
+"Rothenberger, A.",NA
+"Rottger, R.",NA
+"Roussos, A.",NA
+"Rowaert, S.",NA
+"Rubboli, G.",NA
+"Rudan, V.",NA
+"Rugulies, R.",NA
+"Ruiz, Y. P.",NA
+"Runge, E.",NA
+"Rybakowski, J. K.",NA
+"Rybner, A.",NA
+"Ryding, M.",NA
+"Sainte-Marie, M.",NA
+"Salkovic-Petrisic, M.",NA
+"Samochowiec, J.",NA
+"Santarius, T.",NA
+"Sari, S","ADULT"
+"Sari, S.","ADULT"
+"Sasaki, N.",NA
+"Sathyaputri, L.",NA
+"Sawyer, M. G.",NA
+"Schachar, R.",NA
+"Schadlich, I. S.",NA
+"Scharff, F. B.",NA
+"Scheie, D.",NA
+"Schelde-Olesen, M. T.",NA
+"Schmidt, S. I.",NA
 "Scholer, P. N.","ADULT"
-"Schork, K.","NA"
-"Schroder, C.","NA"
-"Schroter, N.","NA"
-"Schulz, M. K.","NA"
-"Schytte, T.","NA"
-"Scodes, J.","NA"
-"Secher, N. H.","NA"
-"Sejbaek, T.","NA"
-"Selmer, K. K.","NA"
-"Sergeant, J.","NA"
-"Severino, M.","NA"
-"Shahini, M.","NA"
-"Shakeshaft, A.","NA"
+"Schork, K.",NA
+"Schriver, Karen Nissen",NA
+"Schroder, C.",NA
+"Schroter, N.",NA
+"Schulz, M. K.",NA
+"Schytte, T.",NA
+"Scippa, A. M.",NA
+"Scirea, M.",NA
+"Scodes, J.",NA
+"Secher, N. H.",NA
+"Sejbaek, T.",NA
+"Selmer, K. K.",NA
+"Semark, B. D.",NA
+"Sergeant, J.",NA
+"Severino, M.",NA
+"Shahini, M.",NA
+"Shakeshaft, A.",NA
+"Sheldrick, A. J.",NA
 "Sheldrick-Michel, T. M.","ADULT"
-"Sibbersen, C.","NA"
-"Silverman, W. K.","NA"
-"Simon, L.","NA"
-"Simonsen, A.","NA"
-"Simonsen, E.","NA"
-"Simsek, Z.","NA"
-"Sivasaravanaparan, M.","NA"
-"Sjogren, J. M.","NA"
-"Sjogren, M.","NA"
-"Skalkidou, A.","NA"
-"Skjoth-Rasmussen, J.","NA"
-"Skoneczny, T.","NA"
+"Sibbersen, C.",NA
+"Sigaard, K. R.",NA
+"Silverman, W. K.",NA
+"Simhandl, C.",NA
+"Simon, L.",NA
+"Simonoff, E.",NA
+"Simonsen, A.",NA
+"Simonsen, E.",NA
+"Simsek, Z.",NA
+"Sivasaravanaparan, M.",NA
+"Sjogren, J. M.",NA
+"Sjogren, M.",NA
+"Skalkidou, A.",NA
+"Skjoth-Rasmussen, J.",NA
+"Skoneczny, T.",NA
 "Skot, L.","ADULT"
-"Skou, S. T.","NA"
-"Skov, C. D.","NA"
-"Skovgaard, A. M.","NA"
-"Smith-Nielsen, J.","NA"
-"Smoktunowicz, E.","NA"
-"Smolka, M. N.","NA"
-"Soderpalm, B.","NA"
+"Skou, S. T.",NA
+"Skov, C. D.",NA
+"Skovgaard, A. M.",NA
+"Smith, D.",NA
+"Smith, J.",NA
+"Smith-Nielsen, J.",NA
+"Smoktunowicz, E.",NA
+"Smolka, M. N.",NA
+"Smolka, Michael N.",NA
+"Soderpalm, B.",NA
+"Soerensen, C. H.",NA
 "Sogaard Nielsen, A.","ADULT"
-"Sondergaard, J.","NA"
-"Sondergaard, R.","NA"
-"Song, C.","NA"
-"Sorensen von Essen, H.","NA"
-"Sorensen, C. B.","NA"
-"Sorensen, M. D.","NA"
-"Stacey, D.","NA"
-"Steffensen, K. D.","NA"
-"Steffensen, L. B.","NA"
-"Steffensen, S. V.","NA"
-"Steinbuechel, N. V.","NA"
+"Sommer-Sorensen, R. H.",NA
+"Sondergaard, J.",NA
+"Sondergaard, R.",NA
+"Song, C.",NA
+"Sonuga-Barke, E.",NA
+"Sorensen von Essen, H.",NA
+"Sorensen, A. M. S.",NA
+"Sorensen, C. B.",NA
+"Sorensen, C. H.","ADULT"
+"Sorensen, M. D.",NA
+"Sorensen, S. S.",NA
+"Sourander, A.",NA
+"Soutullo, C.",NA
+"Spitz, A.",NA
+"Stacey, D.",NA
+"Stackhouse, P. W., Jr.",NA
+"Steffensen, K. D.",NA
+"Steffensen, L. B.",NA
+"Steffensen, S. V.",NA
+"Stein, D. J.",NA
+"Steinbuechel, N. V.",NA
 "Steinhausen, H. C.","BUP"
 "Stenager, E.","ADULT"
-"Stokholm, J.","NA"
+"Stenling, A.",NA
+"Stensballe, L. G.",NA
+"Stilwell, K.",NA
+"Stokholm, J.",NA
 "Stoving, R. K.","BUP"
-"Strekalova, T.","NA"
-"Striano, P.","NA"
-"Strug, L. J.","NA"
-"Stryhn, L.","NA"
-"Stubbe, J.","NA"
-"Sulaiman, D.","NA"
-"Svendsen, A. J.","NA"
+"Straarup, K.",NA
+"Straszek, S. P. V.",NA
+"Strejilevich, S.",NA
+"Strekalova, T.",NA
+"Striano, P.",NA
+"Stripp, T. K.",NA
+"Strug, L. J.",NA
+"Stryhn, L.",NA
+"Stubbe, J.",NA
+"Su, K. P.",NA
+"Subramaniam, M.",NA
+"Sulaiman, A. H.",NA
+"Sulaiman, D.",NA
+"Suominen, A.",NA
+"Suominen, K.",NA
+"Suppli, N. P.",NA
+"Svendsen, A. J.",NA
 "Svenningsen, A. F.","NON"
-"Swain, J.","NA"
-"Syvertsen, M.","NA"
+"Swain, J.",NA
+"Syvertsen, M.",NA
+"Tanra, A. J.",NA
 "Tarp, K.","ADULT"
-"Thastum, M.","NA"
-"Thomas, R. H.","NA"
-"Thomassen, M.","NA"
-"Thomsen, P. H.","NA"
-"Thorning, M.","NA"
+"Tatebayashi, Y.",NA
+"Teh, W. L.",NA
+"Thastum, M.",NA
+"Theodorsdottir, A.",NA
+"Thiele, M.",NA
+"Thomas, R. H.",NA
+"Thomassen, M.",NA
+"Thompson, W. K.",NA
+"Thomsen, N. S.",NA
+"Thomsen, P. H.",NA
+"Thorning, M.",NA
 "Thorsen, L.","ADULT"
 "Thorsen, M.","ADULT"
-"Thorsen, S. V.","NA"
-"Thorup, A. A. E.","NA"
-"Timmermann, C. A. G.","NA"
+"Thorsen, S. V.",NA
+"Thorup, A. A. E.",NA
+"Timmermann, C. A. G.",NA
 "Tingleff, E. B.","ADULT"
-"Titzler, I.","NA"
-"Toft, P.","NA"
-"Tonder, E. S.","NA"
-"Tonges, L.","NA"
-"Topooco, N.","NA"
-"Torp-Pedersen, C.","NA"
-"Townsend, L. K.","NA"
-"Trabjerg, B. B.","NA"
-"Turner, L.","NA"
-"Tyburski, E.","NA"
+"Titzler, I.",NA
+"Toft, P.",NA
+"Tonder, E. S.",NA
+"Tondo, L.",NA
+"Tonges, L.",NA
+"Topooco, N.",NA
+"Torgersen, L.",NA
+"Torp-Pedersen, C.",NA
+"Torrent, C.",NA
+"Torstveit, M. K.",NA
+"Townsend, L. K.",NA
+"Trabjerg, B. B.",NA
+"Trinh, N. T. H.",NA
+"Tuinstra, D.",NA
+"Turner, L.",NA
+"Tyburski, E.",NA
+"Uchida, T.",NA
+"Vaaler, A. E.",NA
 "Vafaee, M. S.","ADULT"
-"Vainieri, I.","NA"
-"Valdimarsdottir, U. A.","NA"
-"Valentin, J. B.","NA"
-"van der Vlegel, M.","NA"
-"van Straten, A.","NA"
-"van Veen, E.","NA"
-"Verhulst, F. C.","NA"
-"Vestergaard, M.","NA"
+"Vainieri, I.",NA
+"Valdimarsdottir, U. A.",NA
+"Valentin, J. B.",NA
+"Van der Oord, S.",NA
+"Vang, Maria Louison",NA
+"Verhulst, F. C.",NA
+"Vestergaard, M.",NA
 "Vestphal, T. K.","ADULT"
-"Vienhues, J. H.","NA"
-"Vigod, S. N.","NA"
-"Villadsen, E.","NA"
-"Vinding, R.","NA"
-"Vinding, S.","NA"
-"Vinslov-Jensen, H.","NA"
-"Vinten, K. T.","NA"
-"Virag, D.","NA"
-"Vitger, T.","NA"
-"Vitorio, J. G.","NA"
-"von Linstow, C. U.","NA"
-"Vuijk, P. J.","NA"
-"Wagner, C. B.","NA"
-"Waider, J.","NA"
-"Wall, M.","NA"
+"Videbech, P.",NA
+"Vienhues, J. H.",NA
+"Vieta, E.",NA
+"Vigod, S. N.",NA
+"Villadsen, E.",NA
+"Villumsen, M. D.","BUP"
+"Vinding, R.",NA
+"Vinding, S.",NA
+"Vinslov-Jensen, H.",NA
+"Vinten, K. T.",NA
+"Virag, D.",NA
+"Viswanath, B.",NA
+"Vitger, T.",NA
+"Vitorio, J. G.",NA
+"Vuijk, P. J.",NA
+"Waagepetersen, H. S.",NA
+"Wagner, C. B.",NA
+"Waider, J.",NA
+"Walitza, S.",NA
+"Wall, M.",NA
 "Wallhed Finn, S.","ADULT"
 "Wallstrom, I. G.","ADULT"
-"Weed, E.","NA"
-"Wegener, G.","NA"
-"Weglinski, C. M.","NA"
-"Weintraub, S.","NA"
-"Weiss, B.","NA"
+"Wasserfurth, P.",NA
+"Weed, E.",NA
+"Wegener, G.",NA
+"Weglinski, C. M.",NA
+"Wehberg, S.",NA
+"Weintraub, S.",NA
+"Weiss, B.",NA
+"Welcher, B.",NA
+"Werge, T.",NA
+"Wermuth, I.",NA
 "Wesselhoeft, R.","BUP"
-"Wiborg, O.","NA"
-"Wiil, U. K.","NA"
-"Wilson, L.","NA"
-"Wilson, R.","NA"
-"Winkler, L. A.","NA"
-"Wirenfeldt, M.","NA"
-"Wirtz, J.","NA"
-"Witkiewitz, K.","NA"
-"Wolanczyk, T.","NA"
-"Wolf, R. T.","NA"
-"Wolff, M.","NA"
-"Wong, D. F.","NA"
-"Woofenden, T. W.","NA"
-"Wright, D. C.","NA"
-"Wulf, M.","NA"
-"Waagepetersen, H. S.","NA"
-"Yates, A. G.","NA"
-"Ying, Y.","NA"
-"Zarubova, J.","NA"
-"Zeldovich, M.","NA"
-"Zhang, E. Y.","NA"
-"Zhang, M.","NA"
-"Ziebell, M.","NA"
-"Zilber, N.","NA"
-"Zukauskiene, R.","NA"
-"Cantio, C.","ADULT"
-"Horder, K.","BUP"
-"Villumsen, M. D.","BUP"
-"Hellum, R.","ADULT"
-"Sari, S","ADULT"
-"Sorensen, C. H.","ADULT"
+"Whybrow, P. C.",NA
+"Wiborg, O.",NA
 "Wieben, E.","ADULT"
-"Bruun, H.","ADULT"
-"Huniche, L.","NON"
-"Nissen, R. D.","NON"
-"Ravnborg, M. H.","NON"
-"Nissen, Ricko Damberg","NA"
-"Andersen, Aida Hougaard","NA"
-"Molenaar, N.","NA"
-"Lupattelli, A.","NA"
-"Bauer, M.","NA"
-"Glenn, T.","NA"
-"Achtyes, E. D.","NA"
-"Alda, M.","NA"
-"Agaoglu, E.","NA"
-"Altinbas, K.","NA"
-"Andreassen, O. A.","NA"
-"Angelopoulos, E.","NA"
-"Ardau, R.","NA"
-"Aydin, M.","NA"
-"Ayhan, Y.","NA"
-"Baethge, C.","NA"
-"Bauer, R.","NA"
-"Baune, B. T.","NA"
-"Balaban, C.","NA"
-"Becerra-Palars, C.","NA"
-"Behere, A. P.","NA"
-"Behere, P. B.","NA"
-"Belete, H.","NA"
-"Belete, T.","NA"
-"Belizario, G. O.","NA"
-"Bellivier, F.","NA"
-"Belmaker, R. H.","NA"
-"Benedetti, F.","NA"
-"Berk, M.","NA"
-"Bersudsky, Y.","NA"
-"Bicakci, S.","NA"
-"Birabwa-Oketcho, H.","NA"
-"Bjella, T. D.","NA"
-"Brady, C.","NA"
-"Cabrera, J.","NA"
-"Cappucciati, M.","NA"
-"Castro, A. M. P.","NA"
-"Chen, W. L.","NA"
-"Cheung, E. Y. W.","NA"
-"Chiesa, S.","NA"
-"Crowe, M.","NA"
-"Cuomo, A.","NA"
-"Dallaspezia, S.","NA"
-"Del Zompo, M.","NA"
-"Desai, P.","NA"
-"Dodd, S.","NA"
-"Etain, B.","NA"
-"Fagiolini, A.","NA"
-"Fellendorf, F. T.","NA"
-"Ferensztajn-Rochowiak, E.","NA"
-"Fiedorowicz, J. G.","NA"
-"Fountoulakis, K. N.","NA"
-"Frye, M. A.","NA"
-"Geoffroy, P. A.","NA"
-"Gonzalez-Pinto, A.","NA"
-"Gottlieb, J. F.","NA"
-"Grof, P.","NA"
-"Haarman, B. C. M.","NA"
-"Harima, H.","NA"
-"Hasse-Sousa, M.","NA"
-"Henry, C.","NA"
-"Hoffding, L.","NA"
-"Houenou, J.","NA"
-"Imbesi, M.","NA"
-"Isometsa, E. T.","NA"
-"Ivkovic, M.","NA"
-"Janno, S.","NA"
-"Johnsen, S.","NA"
-"Kapczinski, F.","NA"
-"Karakatsoulis, G. N.","NA"
-"Kardell, M.","NA"
-"Kessing, L. V.","NA"
-"Kim, S. J.","NA"
-"Konig, B.","NA"
-"Kot, T. L.","NA"
-"Koval, M.","NA"
-"Kunz, M.","NA"
-"Lafer, B.","NA"
-"Landen, M.","NA"
-"Lenger, M.","NA"
-"Lewitzka, U.","NA"
-"Licht, R. W.","NA"
-"Lopez-Jaramillo, C.","NA"
-"MacKenzie, A.","NA"
-"Madsen, H. O.","NA"
-"Madsen, Saka","NA"
-"Mahadevan, J.","NA"
-"Mahardika, A.","NA"
-"Manchia, M.","NA"
-"Marsh, W.","NA"
-"Martinez-Cengotitabengoa, M.","NA"
-"Martiny, K.","NA"
-"Mashima, Y.","NA"
-"McLoughlin, D. M.","NA"
-"Meesters, Y.","NA"
-"Melle, I.","NA"
-"Meza-Urzua, F.","NA"
-"Mok, Y. M.","NA"
-"Monteith, S.","NA"
-"Moorthy, M.","NA"
-"Morken, G.","NA"
-"Mosca, E.","NA"
-"Mozzhegorov, A. A.","NA"
-"Munoz, R.","NA"
-"Mythri, S. V.","NA"
-"Nacef, F.","NA"
-"Nadella, R. K.","NA"
-"Nakanotani, T.","NA"
-"O'Donovan, C.","NA"
-"Omrani, A.","NA"
-"Osher, Y.","NA"
-"Ouali, U.","NA"
-"Pantovic-Stefanovic, M.","NA"
-"Pariwatcharakul, P.","NA"
-"Petite, J.","NA"
-"Pfennig, A.","NA"
-"Ruiz, Y. P.","NA"
-"Pinna, M.","NA"
-"Pompili, M.","NA"
-"Porter, R.","NA"
-"Quiroz, D.","NA"
-"Rabelo-da-Ponte, F. D.","NA"
-"Ramesar, R.","NA"
-"Rasgon, N.","NA"
-"Ratta-Apha, W.","NA"
-"Ratzenhofer, M.","NA"
-"Redahan, M.","NA"
-"Reddy, M. S.","NA"
-"Reif, A.","NA"
-"Reininghaus, E. Z.","NA"
-"Richards, J. G.","NA"
-"Ritter, P.","NA"
-"Rybakowski, J. K.","NA"
-"Sathyaputri, L.","NA"
-"Scippa, A. M.","NA"
-"Simhandl, C.","NA"
-"Smith, D.","NA"
-"Smith, J.","NA"
-"Stackhouse, P. W., Jr.","NA"
-"Stein, D. J.","NA"
-"Stilwell, K.","NA"
-"Strejilevich, S.","NA"
-"Su, K. P.","NA"
-"Subramaniam, M.","NA"
-"Sulaiman, A. H.","NA"
-"Suominen, K.","NA"
-"Tanra, A. J.","NA"
-"Tatebayashi, Y.","NA"
-"Teh, W. L.","NA"
-"Tondo, L.","NA"
-"Torrent, C.","NA"
-"Tuinstra, D.","NA"
-"Uchida, T.","NA"
-"Vaaler, A. E.","NA"
-"Vieta, E.","NA"
-"Viswanath, B.","NA"
-"Yoldi-Negrete, M.","NA"
-"Yalcinkaya, O. K.","NA"
-"Young, A. H.","NA"
-"Zgueb, Y.","NA"
-"Whybrow, P. C.","NA"
-"Dyrberg, H.","NA"
-"Bjorvatn, B.","NA"
-"Kjeldsen, M. J.","NA"
-"Pedersen, Martin Locht","NA"
-"Gildberg, Frederik Alkier","NA"
-"Birkeland, Søren","NA"
-"Wismann, J.","NA"
-"Sommer-Sorensen, R. H.","NA"
-"Gronhoj, M. H.","NA"
-"Larsen, T. S.","NA"
-"Moller, M. B.","NA"
-"Fruekilde, S. K.","NA"
-"Bailey, C. J.","NA"
-"Carlsen, J.","NA"
-"Xu, N. L.","NA"
-"Drasbek, K. R.","NA"
-"Gutierrez-Jimenez, E.","NA"
-"Marcussen, J.","NA"
-"Schriver, Karen Nissen","NA"
-"Ong, Ben","NA"
-"Rossen, Camilla Blach","NA"
-"Buus, Niels","NA"
-"Milling, L.","NA"
-"Mikkelsen, S.","NA"
-"Oxholm, C.","NA"
-"Christensen, A. S.","NA"
-"Zacher Kjeldsen, M. M.","NA"
-"Fluttert, F. A. J.","NA"
-"Bjørkly, Stål","NA"
-"Dale, Karl Yngvar","NA"
-"Eriksen, L. S.","NA"
-"Daniela Maier, A.","NA"
-"Santarius, T.","NA"
-"Andree Larsen, V.","NA"
-"Winther Kristensen, B.","NA"
-"Law, I.","NA"
-"Haddad, P. M.","NA"
-"Winkel, J. S.","NA"
-"Nybo, M.","NA"
-"Klausen, Søren Harnow","NA"
-"Emiliussen, Jakob","NA"
-"Christiansen, Regina","NA"
-"Hasandedic-Dapo, Lejla","NA"
-"Engelsen, Søren","NA"
-"Handberg, Charlotte","NA"
-"Dreyer, Pia","NA"
-"Theodorsdottir, A.","NA"
-"Kräplin, Anja","NA"
-"Kupka, Käthe Friederike","NA"
-"Fröhner, Juliane H.","NA"
-"Krönke, Klaus-Martin","NA"
-"Wolff, Max","NA"
-"Smolka, Michael N.","NA"
-"Bühringer, Gerhard","ADULT"
-"Goschke, Thomas","NA"
-"Bischof, G.","NA"
-"Hesse, M.","NA"
-"Schmidt, S. I.","NA"
-"Freude, K.","NA"
-"Knudsen, L. V.","NA"
-"Gazerani, P.","NA"
-"Duan, Y.","NA"
-"Spitz, A.","NA"
-"Aebi, M.","NA"
-"Walitza, S.","NA"
-"Askgaard, G.","NA"
-"Thiele, M.","NA"
-"Sari, S.","ADULT"
-"Korup, A. K.","ADULT"
+"Wiil, U. K.",NA
+"Wilson, L.",NA
+"Wilson, R.",NA
+"Wilson, R. L.",NA
+"Winkel, J. S.",NA
+"Winkler, L. A.",NA
+"Winther Kristensen, B.",NA
+"Wirenfeldt, M.",NA
+"Wirtz, J.",NA
+"Wismann, J.",NA
+"Wissing, S.",NA
+"Witkiewitz, K.",NA
+"Wolanczyk, T.",NA
+"Wolf, R. T.",NA
+"Wolff, M.",NA
+"Wolff, Max",NA
+"Wong, D. F.",NA
+"Wong, I. C. K.",NA
+"Woofenden, T. W.",NA
+"Wozniewicz, A.",NA
+"Wright, D. C.",NA
+"Wulf, M.",NA
+"Xu, N. L.",NA
+"Xylander, A. A. P.",NA
+"Yalcinkaya, O. K.",NA
+"Yates, A. G.",NA
+"Ying, Y.",NA
+"Yoldi-Negrete, M.",NA
+"Young, A. H.",NA
+"Yuan, Y.",NA
+"Zacher Kjeldsen, M. M.",NA
+"Zarubova, J.",NA
+"Zeldovich, M.",NA
+"Zgueb, Y.",NA
+"Zhang, E. Y.",NA
+"Zhang, M.",NA
+"Zhang, Y.",NA
+"Ziebell, M.",NA
+"Ziegler, Sonja M. T.",NA
+"Zilber, N.",NA
+"Zuddas, A.",NA
+"Zukauskiene, R.",NA
+"de Bejczy, A.",NA
+"van Straten, A.",NA
+"van Veen, E.",NA
+"van der Vlegel, M.",NA
+"von Linstow, C. U.",NA
