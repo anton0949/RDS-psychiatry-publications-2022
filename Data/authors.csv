@@ -115,7 +115,7 @@
 "Bikic, A.","BUP"
 "Bilberg, R.","ADULT"
 "Bilenberg, N.","BUP"
-"Bilenberg, Niels",NA
+"Bilenberg, Niels","BUP"
 "Birabwa-Oketcho, H.",NA
 "Bird, H.",NA
 "Birkeland, S. F.","ADULT"
@@ -191,8 +191,8 @@
 "Christensen, T. N.",NA
 "Christesen, H. B. T.",NA
 "Christesen, H. T.",NA
-"Christiansen, E.",NA
-"Christiansen, Erik",NA
+"Christiansen, E.","ADULT"
+"Christiansen, Erik","ADULT"
 "Christiansen, R.","ADULT"
 "Christiansen, Regina",NA
 "Cieslak, R.",NA
@@ -448,7 +448,7 @@
 "Hougaard, D. M.",NA
 "Hounsgaard, L.","ADULT"
 "Hulgaard, D.","BUP"
-"Hulgaard, D. R.",NA
+"Hulgaard, D. R.","BUP"
 "Hundsholt, T.",NA
 "Huniche, L.","NON"
 "Husted, A.",NA
@@ -610,7 +610,7 @@
 "Lewitzka, U.",NA
 "Licht, R. W.",NA
 "Lichtenstein, M. B.","ADULT"
-"Lichtenstein, Mia Beck",NA
+"Lichtenstein, Mia Beck","ADULT"
 "Lim, K. S.",NA
 "Lindberg, U.",NA
 "Lindhardt, L.",NA
@@ -694,7 +694,7 @@
 "Mistarz, N.","ADULT"
 "Mitta Raghava, J.",NA
 "Moeller, A. M.","ADULT"
-"Moeller, S. B.",NA
+"Moeller, S. B.","ADULT"
 "Mogensen, C. B.",NA
 "Mogensen, S. H.",NA
 "Mohammadi, Z.",NA
@@ -709,7 +709,7 @@
 "Moller, M. B.",NA
 "Moller, R. S.","NON"
 "Moller, S.",NA
-"Moller, S. B.",NA
+"Moller, S. B.","ADULT"
 "Momen, N. C.",NA
 "Monteith, S.",NA
 "Monzani da Rocha, M.",NA
@@ -734,7 +734,7 @@
 "Munch, T. N.",NA
 "Munk-Jorgensen, P.","ADULT"
 "Munk-Laursen, T.",NA
-"Munk-Olsen, T.","NON"
+"Munk-Olsen, T.","ADULT"
 "Munoz, R.",NA
 "Munthe, S.",NA
 "Musliner, K. L.",NA
@@ -815,7 +815,7 @@
 "Pedersen, M. G.",NA
 "Pedersen, M. L.","ADULT"
 "Pedersen, M. M. A.",NA
-"Pedersen, Martin Locht",NA
+"Pedersen, Martin Locht","ADULT"
 "Pedrosa, D. J.",NA
 "Pereira, Tdsf",NA
 "Petersen, L.",NA
@@ -1024,6 +1024,7 @@
 "Syvertsen, M.",NA
 "Tanra, A. J.",NA
 "Tarp, K.","ADULT"
+"Tarp, K. H. H.","ADULT"
 "Tatebayashi, Y.",NA
 "Teh, W. L.",NA
 "Thastum, M.",NA
@@ -1142,7 +1143,7 @@
 "Zhang, M.",NA
 "Zhang, Y.",NA
 "Ziebell, M.",NA
-"Ziegler, Sonja M. T.",NA
+"Ziegler, Sonja M. T.","BUP"
 "Zilber, N.",NA
 "Zuddas, A.",NA
 "Zukauskiene, R.",NA

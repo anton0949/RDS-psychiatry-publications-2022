@@ -80,7 +80,7 @@ build_reference_database <- function(
                 "](",
                 link,
                 ")"
-            );
+            )
         }
 
         journal_no_txt <- ""
@@ -123,7 +123,7 @@ build_reference_database <- function(
             excluded    = (!firstlast && !co) || doi %in% excluded$doi,
             firstauthor = firstauthor,
             journal     = journal
-        );
+        )
     }
 
     dataset <- dataset |> dplyr::left_join(jif)

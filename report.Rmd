@@ -3,6 +3,8 @@ output: pdf_document
 fontfamily: Playfair Display
 classoption: a4paper
 header-includes:
+    - \usepackage{pdfpages}
+    - \usepackage{multicol}
     - \usepackage{booktabs}
     - \renewcommand{\arraystretch}{1.5}
     - \usepackage{fancyhdr}
@@ -60,8 +62,39 @@ make_table_type2 <- function(data) {
 }
 ```
 
+\includepdf{`r here::here("2022 Results", "Frontpage_BUP.pdf")`}
+
+\setcounter{page}{1}
 \fancyfoot[LE,RO]{\textit{`r report_data$footer`} • \textbf{\thepage}}
 
+\huge
+**The bibliometric reports for the psychiatric departments in the Region of Southern Denmark 2022**
+\vspace*{1.0cm}
+\normalsize
+
+\begin{multicols}{2}
+The bibliometric reports are now available for both Child Adolescent Psychiatry and Adult Psychiatry in the Region of Southern Denmark (RSD).
+
+The reports are structured similarly, starting with presenting the bibliometrics for all publications in peer-reviewed journals with at least one author affiliated with either of the two specialties in the region (represented by an orange color). Next, we present bibliometrics for publications where RSD-affiliated researchers are responsible for first or senior authorship (represented by blue).
+
+Furthermore, we have included a category for journals that fall within the top one-third of publications based on their Journal Impact Factor (JIF) (represented by green), as well as a category for publications with first or senior authorship affiliation in the upper one-third ranking journals (represented by purple).
+
+Figures 3, 7, 9, and 10 are particularly informative in expressing the development of research work in the two specialties. We note that the reports are based on the JIF for 2021, as the JIF for 2022 will not be available until the summer 2023.
+
+We have based the analyses in this and previous reports on the two-year JIF, as it is the most used measure for a journal's prestige. However, it is important to note that a lot of nuances are lost when relying solely on this measure, and that different journals have different profiles. Journals publishing frequently cited topics will have a higher impact factor than journals that publish on less-cited topics, even if the quality of the publications is comparable. Additionally, we emphasize that the JIF reflects an average of how often a journal's publications are cited, not how often each individual publication is cited.
+
+We provide access to all raw data, databases, and source code used to make the report via our GitHub repository\footnote{https://github.com/anton0949/RDS-psychiatry-publications-2022}. This added transparency allows for a deeper understanding of the data and methods used in the report, which can aid in further research and analysis. A formatted reference list along with the journal’s JIF is also to be found in the reports. 
+
+The reports will be shared with research departments, units, and groups within RSD Psychiatry, as well as with other relevant employees, for their use in conducting analyses, comparisons, and identifying trends.
+
+\textbf{NB:} Since 2015, our annual bibliometric reports have followed the general accepted practice of including articles from printed journal issues published during the year in question. However, due to the growing prevalence of \textit{e-publications ahead of print}, we have decided to also include these publications in our analyses starting in 2022, regardless of whether they are printed during the year in question.
+
+As a result, the 2022 reports for adult psychiatry and CAP will include additional articles, \textbf{rendering them incomparable to previous reports. However, starting from 2023, our reports will be fully comparable to one another.}
+
+Finally, we remark that the annual number of published articles worldwide increases by 5-7\%, which could artificially inflate Journal Impact Factors without an actual increase in quality. We do not attempt to adjust for this potential bias.
+\end{multicols}
+
+\pagebreak
 \huge
 **All publications with authors from departments of `r report_data$department` in the Region of Southern Denmark**
 \vspace*{1.0cm}
